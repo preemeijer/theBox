@@ -12,4 +12,5 @@ For the "story" and rules see https://reemeijer.nl/theBox
      * You can read the manpage "man ./theBox.6x.gz"
 
 ## "Remote play"
-
+Remote play on the same machine between two users is not implemented yet. There is a solution with TMUX and / or SCREEN.
+Manual found at the following URL: https://www.howtoforge.com/sharing-terminal-sessions-with-tmux-and-screen#basic-sharing-with-screen
