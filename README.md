@@ -1,6 +1,6 @@
 # theBox
 
-For the "story" and rules see https://reemeijer.nl/theBox
+For the "story", rules and controls see https://reemeijer.nl/theBox
 
 ## Installation
  * Clone the git repository
